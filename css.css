@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+}
+h2{
+    color: rgb(28, 214, 115);
+}
+body {
+background-color: rgb(255, 0, 0);
+text-align: center;
+}
+.name {
+    color: rgb(132, 165, 42);
+    width: 233px;
+    height: 44px;
+    background-color: black;
+    text-align: center;
+}
